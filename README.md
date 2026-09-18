@@ -1,2 +1,2 @@
-# CSE-3104-DCS
-CSE-3104-DCS
+CSE-3210
+Artificial Intelligence Sessional
